@@ -1,0 +1,13 @@
+UTAMAKAN BACA TERLEBIH DAHULU SEBELUM PAKAI TOOLS 
+
+TOOLS INI MEMBUTUHKAN PASSWORD UTK LOGIN NYA 
+
+11001011   ##Ini password login nya, TAPI INI DI Encrypt MAKE .... 
+
+clue: 
+Rail Densha Chiper
+key 5
+offset 27
+
+UTAMAKAN BACA CLUE DENGAN TELITI
+NYERAH Mecahin encrypt = Your Skill Is Low :D
